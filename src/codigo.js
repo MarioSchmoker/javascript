@@ -7,7 +7,7 @@ console.log("chauuu");
 function saludar() {
   console.clear();
   console.log("holisss");
-  for (var i = 1; i <= 15; i++) {
+  for (var i = 1; i <= 5; i++) {
     console.log(i);
   }
 }
